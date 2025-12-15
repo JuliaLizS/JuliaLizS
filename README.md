@@ -53,32 +53,6 @@ Transformando dados em decisões, produtos e inteligência aplicada.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLizS&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLizS&layout=compact"
-    alt="Top Languages"
-  />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JuliaLizS&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JuliaLizS&show_icons=true"
-    alt="GitHub Stats"
-  />
-</picture>
-
----
-
 ## 🌱 Atualmente
 - 📚 Aprofundando em **Engenharia de Dados e Arquiteturas Analíticas**
 - 🧩 Explorando **dados em streaming e análises avançadas**
@@ -87,8 +61,8 @@ Transformando dados em decisões, produtos e inteligência aplicada.
 ---
 
 ## 📫 Onde me encontrar
-- 💼 **LinkedIn:** *(adicione aqui)*  
-- ✉️ **Email:** *(adicione aqui)*  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/julializs/
+- ✉️ **Email:** julializsls@gmail.com
 
 ---
 
