@@ -1,6 +1,10 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/JuliaLizS?theme=dark">
-  <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/JuliaLizS">
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLizS&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLizS&layout=compact"
+    alt="Top Languages"
+  />
 </picture>
-
-
