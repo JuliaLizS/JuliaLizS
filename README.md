@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=28&center=true&vCenter=true&width=700&height=70&duration=4000&color=6C63FF&lines=Bem-vinda!+👋;Meu+nome+é+Jú+Sales;Análise+e+Engenharia+de+Dados" 
+    src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=28&center=true&vCenter=true&width=700&height=70&duration=4000&color=6C63FF&lines=Bem-vindo(a)!+👋;Meu+nome+é+Júlia+Liz;Análise+e+Engenharia+de+Dados" 
   />
 </h1>
 
@@ -52,7 +52,10 @@ def profile():
     }
 
 print(profile())
+```
 <img align='right' height='200' style="margin-left:20px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg'>
+
+```
 dados_chegando = True
 pipeline_ativo = True
 
@@ -60,22 +63,26 @@ if dados_chegando and pipeline_ativo:
     print("📡 Processando dados em tempo real...")
 else:
     print("⚠️ Verificando pipeline...")
-
+```
 <hr>
-💻 Stack de Dados
-🧑‍💻 Linguagens
+💻 <b>Stack de Dados</b>
+
+🧑‍💻 <b>Linguagens</b>
 <p> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/> </p>
-⚙️ Dados & Processamento
+⚙️ <b>Dados & Processamento</b>
 <p> <img src="https://img.shields.io/badge/Polars-0A0A0A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/> </p>
-🔄 Streaming & Backend
+🔄 <b>Streaming & Backend</b>
 <p> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/> </p>
-🗄️ Bancos de Dados
+🗄️ <b>Bancos de Dados</b>
 <p> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/> </p>
-📊 Visualização & Analytics
+📊 <b>Visualização & Analytics</b>
 <p> <img src="https://img.shields.io/badge/Matplotlib-F76D36?style=for-the-badge"/> <img src="https://img.shields.io/badge/Seaborn-009688?style=for-the-badge"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/> </p>
-📊 GitHub Stats
+📊 <b>GitHub Status</b>
+<p>
 <picture> <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLizS&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLizS&layout=compact" alt="Top Languages" /> </picture>
-<h3 align="center"> ⬇ Confira meus projetos fixados abaixo ⬇ ✨ Dados bem trabalhados contam histórias melhores ✨ </h3> ```
+<h3 align="center"> ⬇ Confira meus projetos fixados abaixo ⬇ ✨ Dados bem trabalhados contam histórias melhores ✨
+
+</h3> 
 
 
 
