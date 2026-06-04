@@ -38,6 +38,7 @@
 
 <img align='left' height='190' style="margin-right:20px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg'>
 
+```python
 def profile():
     return {
         "name": "Júlia Liz",
@@ -65,13 +66,14 @@ def profile():
             "APIs e pipelines de dados"
         ],
     }
+```
 
 print(profile())
 
 
 <img align='right' height='200' style="margin-left:20px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg'>
 
-
+```
 dados_chegando = True
 pipeline_ativo = True
 modelo_em_producao = True
@@ -82,7 +84,7 @@ if dados_chegando and pipeline_ativo:
 if modelo_em_producao:
     print("🧠 Gerando inteligência a partir dos dados...")
 
-
+```
 <hr>
 
 💻 <b>Stack Principal</b>
