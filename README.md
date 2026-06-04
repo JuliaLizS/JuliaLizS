@@ -166,4 +166,3 @@ if modelo_em_producao:
   <br>
   ✨ Dados bem trabalhados contam histórias melhores ✨
 </h3>
-```
