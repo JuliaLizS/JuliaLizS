@@ -66,9 +66,9 @@ def profile():
             "APIs e pipelines de dados"
         ],
     }
-```
 
 print(profile())
+```
 
 
 <img align='right' height='200' style="margin-left:20px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg'>
