@@ -1,4 +1,3 @@
-html
 <h1 align="center"> 
   <img 
     src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=28&center=true&vCenter=true&width=780&height=70&duration=4000&color=6C63FF&lines=Bem-vindo(a)!+👋;Meu+nome+é+Júlia+Liz;Ciência+de+Dados+%7C+IA+%7C+Engenharia+de+Dados" 
@@ -39,7 +38,6 @@ html
 
 <img align='left' height='190' style="margin-right:20px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg'>
 
-python
 def profile():
     return {
         "name": "Júlia Liz",
@@ -73,7 +71,7 @@ print(profile())
 
 <img align='right' height='200' style="margin-left:20px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg'>
 
-python
+
 dados_chegando = True
 pipeline_ativo = True
 modelo_em_producao = True
