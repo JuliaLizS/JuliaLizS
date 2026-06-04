@@ -153,13 +153,9 @@ if modelo_em_producao:
 
 📊 <b>GitHub Status</b>
 
-<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=JuliaLizS&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuliaLizS&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLizS&layout=compact&theme=tokyonight"/>
-
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuliaLizS&theme=tokyo-night)
 
 <h3 align="center">
   ⬇ Confira meus projetos fixados abaixo ⬇ 
