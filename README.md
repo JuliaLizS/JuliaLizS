@@ -140,23 +140,28 @@ if modelo_em_producao:
   <img src="https://img.shields.io/badge/Seaborn-009688?style=for-the-badge"/>
 </p>
 
-📌 <b>Projetos e interesses</b>
+📌 <b>Áreas de interesse</b>
 
 <ul>
-  <li>☁️ Word Cloud e análise de tendências em comentários operacionais</li>
-  <li>🚓 Predição de crimes e identificação de padrões temporais/geoespaciais</li>
-  <li>🚗 Detecção de possíveis clonagens veiculares</li>
-  <li>📡 Pipelines com Kafka, Redis, APIs e dados em tempo real</li>
-  <li>🧠 NLP, classificação, score, análise estatística e automação de decisões</li>
+  <li>🧠 Inteligência Artificial e NLP</li>
+  <li>📊 Ciência de Dados aplicada a problemas reais</li>
+  <li>📡 Processamento de dados em tempo real</li>
+  <li>⚙️ Arquiteturas e pipelines de dados</li>
+  <li>🚀 Sistemas inteligentes e automação analítica</li>
+  <li>🌎 Análise espacial e identificação de padrões</li>
 </ul>
 
 📊 <b>GitHub Status</b>
 
-<p>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLizS&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLizS&layout=compact" alt="Top Languages" />
-  </picture>
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=JuliaLizS&show_icons=true&theme=tokyonight"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLizS&layout=compact&theme=tokyonight"
+  />
 </p>
 
 <h3 align="center">
