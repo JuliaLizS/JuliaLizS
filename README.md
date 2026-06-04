@@ -150,15 +150,3 @@ if modelo_em_producao:
   <li>🚀 Sistemas inteligentes e automação analítica</li>
   <li>🌎 Análise espacial e identificação de padrões</li>
 </ul>
-
-📊 <b>GitHub Status</b>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JuliaLizS&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuliaLizS&theme=tokyo-night)
-
-<h3 align="center">
-  ⬇ Confira meus projetos fixados abaixo ⬇ 
-  <br>
-  ✨ Dados bem trabalhados contam histórias melhores ✨
-</h3>
