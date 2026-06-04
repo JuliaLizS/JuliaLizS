@@ -153,17 +153,11 @@ if modelo_em_producao:
 
 📊 <b>GitHub Status</b>
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=JuliaLizS&show_icons=true&theme=tokyonight"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLizS&layout=compact&theme=tokyonight"
-  />
-</p>
+## 📊 GitHub Stats
 
+![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaLizS&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLizS&layout=compact&theme=tokyonight)
 <h3 align="center">
   ⬇ Confira meus projetos fixados abaixo ⬇ 
   <br>
